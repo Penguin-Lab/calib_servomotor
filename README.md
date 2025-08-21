@@ -1,6 +1,6 @@
 # calib_servomotor
 Esse é o calibrador automático de motores servo desenvolvido para agilizar a vida do desenvolvedor de robôs a patas!
-<img src="https://github.com/Penguin-Lab/calib_servomotor/blob/main/foto0.png" height="350">
+<img src="https://github.com/Penguin-Lab/calib_servomotor/blob/main/foto0.jpg" height="350">
 
 ## Modo de uso:
 Para testar o sistema, o usuário deve:
