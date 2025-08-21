@@ -17,4 +17,5 @@ Para testar o sistema, o usuário deve:
 - Colocar a faixa estimada no arquivo Excel, que retorna a faixa PWM para 0 e 180 graus
 - Com o disco posicionado na posição 0 graus, pode-se retirar o motor do sistema e conecta-lo na pata do robô a ser construído
 
-Aluno desenvolvedor: Samuel Gurgel Rocha
+## Aluno participante e desenvolvedor do calibrador automático de servo motor
+- Samuel Gurgel Rocha
